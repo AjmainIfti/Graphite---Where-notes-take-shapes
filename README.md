@@ -6,7 +6,7 @@ We explored how Next.js works, how frontend and backend connect, and how real-wo
 
 ---
 
-## 🌟 Project Overview
+## Project Overview
 
 This project represents our journey into:
 
@@ -22,7 +22,7 @@ It serves as a learning project as well as a solid starting template for future 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Next.js**  
 - **React**  
@@ -33,7 +33,7 @@ It serves as a learning project as well as a solid starting template for future 
 
 ---
 
-## 📦 Features Implemented
+## Features Implemented
 
 - Clean and organized folder structure  
 - Fully working frontend pages  
